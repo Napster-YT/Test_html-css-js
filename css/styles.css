@@ -1,0 +1,17 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  font-size: 24px;
+  max-width: 900px;
+  width: auto;
+}
+
+.title_1 {
+  font-style: 45px;
+  color: rgb(255, 157, 0);
+  text-align: center;
+}
